@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a responsive educational website.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://subratpatr.github.io/Educationalweb/",
+    "source": "https://github.com/SubratPatr/Educational_website_project.git"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project in which 3 different task are present.",
+    "skills": ["Core Java"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SubratPatr/CODSOFT.git"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a music player application made in Java.",
+    "skills": ["Core Java"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SubratPatr/UpSkill_Campus.git"
+  }
+]

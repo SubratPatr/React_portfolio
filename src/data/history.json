@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Exposys Data Labs",
+    "startDate": "April, 2023",
+    "endDate": "May, 2023",
+    "experiences": ["Worked on Responsive Educational Website", "Designed a multi-page responsive educational website"],
+    "imageSrc": "history/exposys.jpg"
+  },
+  {
+    "role": "Java Developer Intern",
+    "organisation": "CodSoft",
+    "startDate": "Sep, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked on 3 different task.", "Designed the ATM Interface, Number Game, Grade Calculator"],
+    "imageSrc": "history/codsoft.jpg"
+  }
+]
